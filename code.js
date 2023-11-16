@@ -273,7 +273,7 @@
 //     table.appendChild(tr);
 // });
 
-// 470 2 ////////////////////////////////////////////////////////////////////////
+// 470 2 
 // let table = document.getElementById('table');
 // document.getElementById('addRow').addEventListener('click', function() {
 //     let tr = table.getElementsByTagName('tr');
@@ -365,7 +365,7 @@
 //     });
 // });
 
-// 476 1 /////////////////////////
+// 476 1 
 // document.getElementById('elem').addEventListener('click', function() {
 //     let input = document.createElement('input');
 //     input.setAttribute('id', 'input');
