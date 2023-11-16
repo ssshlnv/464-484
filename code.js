@@ -61,7 +61,7 @@
 //     ul.appendChild(li);
 // });
 
-// 466 1 /////////////////////////////////////////////////
+// 466 1 
 // let table = document.getElementById('table');
 // for (let i = 0; i < 5; i++) {
 //     let row = document.createElement('tr');
@@ -84,7 +84,7 @@
 //     }
 //     table.appendChild(row);
 // }
-////////////////////////////////////////////////////////////
+
 
 // 466 3
 // let table = document.getElementById('table');
